@@ -1,0 +1,58 @@
+body{
+    background-image: url("images/wellpaper.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#img{
+    width: 100%;
+}
+#navbarNavAltMarkup{
+    margin-left: 800px;
+}
+h1 {
+    text-align: center;
+    color: #ff0404;
+    font-weight: 700;
+    font-size: 50px;
+}
+section#welcome {
+    margin-top: 67px;
+}
+div#secrch {
+    font-size: 50px;
+    text-align: center;
+    margin-top: 100px;
+}
+button#btn {
+    background-color: #F06F4E;
+    color: white;
+    border-radius: 5px;
+    border: none;
+}
+div#container {
+    margin-top: 40px;
+}
+section#recipeItem {
+    width: 80%;
+    margin-left: 108px;
+}
+footer#footer {
+    text-align: center;
+    margin-top: 40px;
+}
+a.icon {
+    font-size: 25px;
+    padding: 5px;
+}
+#youtube{
+   color:  #FF0101;
+}
+#facebook{
+    color: #c6f812;
+}
+#footer{
+    background-color:rgb(92, 189, 12);
+}
+#email{
+    color: rgba(209, 24, 24, 0.863);
+}
